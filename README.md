@@ -12,7 +12,14 @@ exemple d'utilisation du markdown
 
 ![bouilloire solaire](media/bouilloire_solaire.jpg)
 
-## titre 2
+## liste avec différents niveaux
+
+* liste premier niveau, premier élément
+  * liste deuxième niveau, premier élément
+    * 3e niveau
+  * liste deuxième niveau, 2e élément
+* liste premier niveau, deuxième élément
+  * le secret c'est la touche TAB 
 
 ### titre 3 a 
 ### titre 3 b
