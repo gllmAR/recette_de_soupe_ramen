@@ -21,9 +21,10 @@ exemple d'utilisation du markdown
 * liste premier niveau, deuxième élément
   * le secret c'est la touche TAB 
 
-### insérer un fichier vidéo
+### insérer un fichier gif
 
-![tests_mp4.mp4](media/tests_mp4.mp4)
+github ne supporte pas les mp4, utilisez un gif pour montrer des animations
+![test.gif](media/test.gif)
 
 ### titre 3 b
 
