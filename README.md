@@ -24,7 +24,7 @@ exemple d'utilisation du markdown
 ### insérer un fichier gif
 
 github ne supporte pas les mp4, utilisez un gif pour montrer des animations
-![test.gif](media/test.gif)
+![test.gif](media/tests.gif)
 
 ### titre 3 b
 
