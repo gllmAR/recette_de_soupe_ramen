@@ -8,7 +8,9 @@ exemple d'utilisation du markdown
 ![ceci est un lien vers une image en ligne](https://live.staticflickr.com/3635/3630858688_bdac8949d2_b.jpg)
 
 
-### titre 3
+## image dans un dossier relatif
+
+![bouilloire solaire](media/bouilloire_solaire.jpg)
 
 ## titre 2
 
