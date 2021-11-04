@@ -21,7 +21,10 @@ exemple d'utilisation du markdown
 * liste premier niveau, deuxième élément
   * le secret c'est la touche TAB 
 
-### titre 3 a 
+### insérer un fichier vidéo
+
+![tests_mp4.mp4](media/tests_mp4.mp4)
+
 ### titre 3 b
 
 
